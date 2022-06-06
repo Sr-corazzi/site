@@ -1,0 +1,26 @@
+h1{
+    color:#123456;
+}
+body{
+    background-color: #602E15;
+}
+
+.calviceTipoM{
+    background-color:#ffae00;
+    display:flex;
+    justify-content:space-between;
+}
+.jogosDoCalvo{
+display:flex;
+justify-content: space-between;
+
+flex-wrap: wrap;
+}
+.item{
+    display: flex;
+    justify-content: space-between;
+}
+
+p,h2{
+    text-align: center;
+}
